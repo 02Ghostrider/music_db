@@ -100,8 +100,9 @@ GEM
     nokogiri (1.11.3-x86-mingw32)
       racc (~> 1.4)
     public_suffix (3.0.1)
-    puma (3.12.4)
-    racc (1.5.2)
+
+    puma (3.12.6)
+
     rack (2.2.3)
     rack-test (0.8.2)
       rack (>= 1.0, < 3)
